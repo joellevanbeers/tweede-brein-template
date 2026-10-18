@@ -13,9 +13,9 @@ _Vijf zinnen: wie je bent, wat je bedrijf doet, voor wie, en waar je naartoe wil
 - Ga niet gokken. Staat iets niet in deze map, vraag het mij.
 - Staat er onder een kopje alleen een vraag in schuine letters? Dan is dat deel nog leeg.
 - Verbeter ik je, of mis je iets? Stel voor wat er in welk bestand bij moet. Pas het aan als ik ja zeg.
-- Komt er een bestand bij? Zet het in de kaart hieronder.
+- Komt er een bestand bij? Zet het in het register hieronder.
 
-## De kaart
+## Het register
 
 | Bestand | Lees dit als je... |
 |---|---|

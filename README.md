@@ -8,7 +8,7 @@ Gemaakt door [Growthentic](https://growthentic.nl) voor de AI Makeover.
 
 ```
 tweede-brein/
-├── CLAUDE.md               start hier: regels en de kaart
+├── CLAUDE.md               start hier: regels en het register
 ├── context/
 │   ├── over-mij.md         wie je bent, je verhaal, wat je belangrijk vindt
 │   ├── bedrijf.md          wat je doet en waarom klanten voor je kiezen
@@ -19,7 +19,7 @@ tweede-brein/
     └── interview.md        laat Claude je interviewen om alles te vullen
 ```
 
-AI leest `CLAUDE.md` eerst. Daarin staat de kaart: welk bestand AI wanneer opent.
+AI leest `CLAUDE.md` eerst. Daarin staat het register: welk bestand AI wanneer opent.
 
 ## Zo begin je
 
@@ -33,6 +33,6 @@ AI leest `CLAUDE.md` eerst. Daarin staat de kaart: welk bestand AI wanneer opent
 
 Je brein is nooit af. Nieuw aanbod, een nieuwe prijs, een andere klant: vul het aan. Verbeter je AI vaak op hetzelfde punt? Dan mist dat in je brein, en stelt Claude voor wat erbij moet.
 
-Wil je meer? Voeg mappen toe, bijvoorbeeld voor je klanten, je werkprocessen of je eigen notities. Zet elke nieuwe map in de kaart in `CLAUDE.md`.
+Wil je meer? Voeg mappen toe, bijvoorbeeld voor je klanten, je werkprocessen of je eigen notities. Zet elke nieuwe map in het register in `CLAUDE.md`.
 
 Wachtwoorden en persoonsgegevens van klanten horen er niet in.
