@@ -1,6 +1,6 @@
 # Tweede brein voor ondernemers
 
-Een map met tekstbestanden over jou en je bedrijf, waar AI bij elke taak uit leest. Zo hoeft AI niet te gokken naar wie je bent, wat je verkoopt, voor wie, en hoe je klinkt.
+Een map met tekstbestanden over jou en je bedrijf, waar AI bij elke taak uit leest. Zo hoeft AI niet te gokken wie je bent, wat je verkoopt, voor wie en hoe je klinkt.
 
 Gemaakt door [Growthentic](https://growthentic.nl) voor de AI Makeover.
 
@@ -8,56 +8,31 @@ Gemaakt door [Growthentic](https://growthentic.nl) voor de AI Makeover.
 
 ```
 tweede-brein/
-├── CLAUDE.md                 start hier: regels en de kaart
+├── CLAUDE.md               start hier: regels en de kaart
 ├── context/
-│   ├── over-mij.md           wie je bent, je verhaal, hoe je werkt
-│   ├── bedrijf.md            wat je doet, waarom klanten voor je kiezen
-│   ├── ideale-klant.md       wie, wat ze willen, hun twijfels en woorden
-│   ├── aanbod.md             diensten, prijzen, voorwaarden
-│   ├── klanten.md            met wie je nu werkt en wat je voor ze doet
-│   ├── tone-of-voice.md      hoe je klinkt, met echte voorbeelden
-│   └── bewijs.md             cases, reviews, resultaten
+│   ├── over-mij.md         wie je bent, je verhaal, wat je belangrijk vindt
+│   ├── bedrijf.md          wat je doet en waarom klanten voor je kiezen
+│   ├── ideale-klant.md     wie, wat ze willen, waar ze aan twijfelen
+│   ├── aanbod.md           diensten, prijzen, hoe het op elkaar aansluit
+│   └── tone-of-voice.md    hoe je klinkt, met echte voorbeelden
 └── prompts/
-    ├── 1-ai-laten-zoeken.md      eerste versie uit je website en documenten
-    └── 2-ai-laten-interviewen.md Claude interviewt je, jij praat
+    └── interview.md        laat Claude je interviewen om alles te vullen
 ```
 
-`CLAUDE.md` is de kaart. AI leest dat bestand eerst en opent daarna alleen de bestanden die de taak nodig heeft.
+AI leest `CLAUDE.md` eerst. Daarin staat de kaart: welk bestand AI wanneer opent.
 
 ## Zo begin je
 
-### 1. Haal de map binnen
-
-Klik rechtsboven op **Code** en dan op **Download ZIP**. Pak de zip uit en zet de map op een vaste plek op je laptop, bijvoorbeeld in Documenten. Hernoem hem gerust naar `tweede-brein`.
-
-Werk je met GitHub? Klik dan op **Use this template** en maak je eigen (privé) kopie.
-
-### 2. Koppel de map aan Claude
-
-**Claude Cowork (desktop-app)**
-1. Ga naar **Projects** en klik op **+**.
-2. Kies **Use an existing folder** en selecteer je map.
-3. Zet bij de instructies: `Lees altijd eerst CLAUDE.md in deze map.`
-
-**Claude Code**
-Open de map en start Claude. `CLAUDE.md` wordt bij elke sessie vanzelf geladen.
-
-### 3. Vul het brein
-
-Open `prompts/2-ai-laten-interviewen.md`, kopieer de prompt en plak hem in Claude. Begin bij `context/over-mij.md`. Heb je al een website of documenten? Begin dan met `prompts/1-ai-laten-zoeken.md` en vul de gaten met het interview.
-
-Vul `CLAUDE.md` als laatste aan met wie je bent in vijf zinnen.
-
-### 4. Test het
-
-Geef Claude drie echte taken, bijvoorbeeld een LinkedIn-post over je aanbod, een antwoord op een klantmail en een offerte-intro. Klinkt het als jou? Mist er iets? Dan weet je welk bestand je aanvult.
+1. **Haal de map binnen.** Klik rechtsboven op **Code** en dan op **Download ZIP**. Pak de zip uit en zet de map op een vaste plek op je laptop.
+2. **Koppel de map aan Claude.** In Cowork: **Projects**, **+**, **Use an existing folder** en kies je map. Zet bij de instructies: `Lees altijd eerst CLAUDE.md in deze map.` In Claude Code open je de map gewoon; `CLAUDE.md` wordt dan vanzelf geladen.
+3. **Laat je interviewen.** Kopieer de prompt uit `prompts/interview.md`, plak hem in Claude en praat je antwoorden in.
+4. **Lees elke regel na.** Wat hier staat, komt terug in alles wat AI voor je maakt.
+5. **Test het.** Vraag om een LinkedIn-post, een antwoord op een klantmail en een intro voor een offerte. Klinkt het als jou?
 
 ## Een levend brein
 
-Wat je vandaag opschrijft, staat niet vast. Corrigeer je AI steeds op hetzelfde punt? Dan ontbreekt dat in je brein: vul het aan. Elk bestand heeft een datum bij `bijgewerkt`, zodat je ziet wat oud is.
+Je brein is nooit af. Nieuw aanbod, een nieuwe prijs, een andere klant: vul het aan. Verbeter je AI vaak op hetzelfde punt? Dan mist dat in je brein, en stelt Claude voor wat erbij moet.
 
-Wil je later meer? Voeg mappen toe, zoals `klanten/` met per klant een bestand, `werkprocessen/` met hoe je dingen doet, of `notities/` voor ideeën en spraaknotities. Zet elke nieuwe map of elk nieuw bestand in de kaart in `CLAUDE.md`.
+Wil je meer? Voeg mappen toe, bijvoorbeeld voor je klanten, je werkprocessen of je eigen notities. Zet elke nieuwe map in de kaart in `CLAUDE.md`.
 
-## Wat er niet in hoort
-
-Wachtwoorden, toegangscodes en persoonsgegevens van klanten. Je brein zegt hooguit waar die staan.
+Wachtwoorden en persoonsgegevens van klanten horen er niet in.

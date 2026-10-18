@@ -1,39 +1,29 @@
----
-titel: Over mij
-beschrijving: Wie ik ben, mijn verhaal, wat ik belangrijk vind en hoe ik werk.
-bijgewerkt:
----
-
 # Over mij
 
-## In het kort
+## Wie ik ben
 
-> Invullen: drie tot vijf zinnen. Wie ben je, wat doe je, en waarom doe je dit werk?
+_Wie ben je, wat doe je, en waarom doe je dit werk?_
 
 ## Mijn verhaal
 
-> Invullen: je achtergrond (opleiding, eerdere banen), het moment waarop je voor jezelf begon en waarom. De momenten die je hebben gevormd.
+_Hoe ben je hier gekomen? Opleiding, eerdere banen, het moment dat je voor jezelf begon. De echte verhalen die AI kan gebruiken in een post of op je website._
 
 ## Waar ik goed in ben
 
-> Invullen: waar mensen je voor vragen, wat je makkelijk afgaat, waar je trots op bent.
+_Waarvoor vragen mensen jou? Wat gaat je makkelijk af?_
 
 ## Wat ik belangrijk vind
 
-> Invullen: je waarden, en per waarde hoe je die terugziet in je werk. Ook: wat je nooit doet.
+_Je waarden en hoe je naar je vak kijkt. En wat je nooit zou doen._
 
-## Mijn doelen
+## Waar ik naartoe wil
 
-> Invullen: wat je dit jaar wilt bereiken en waar je over drie jaar wilt staan. Zakelijk en persoonlijk.
+_Wat wil je dit jaar bereiken, en over drie jaar? Zakelijk en persoonlijk._
 
 ## Hoe ik werk
 
-> Invullen: hoeveel uur je werkt, je ritme, wanneer je het best bent, welke tools je gebruikt, wat je energie geeft en wat niet.
+_Je ritme, hoeveel uur je werkt, de tools die je gebruikt, wat je energie geeft._
 
 ## Hoe AI mij het best helpt
 
-> Invullen: waar AI je mee moet helpen en waarmee niet. Hoe je feedback wilt (direct, met opties, kort), hoe lang antwoorden mogen zijn en in welke taal.
-
-## Wat nog ontbreekt
-
-- 
+_Waar moet AI je mee helpen, en waarmee niet? Hoe wil je antwoorden: kort, met opties, direct?_

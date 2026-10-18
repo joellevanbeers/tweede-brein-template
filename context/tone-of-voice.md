@@ -1,53 +1,30 @@
----
-titel: Tone of voice
-beschrijving: Hoe ik klink, welke woorden ik wel en niet gebruik, en voorbeelden van teksten die echt van mij zijn.
-bijgewerkt:
----
-
 # Tone of voice
 
 ## Zo klink ik
 
-| Eigenschap | Zo klinkt het | Zo niet |
-|---|---|---|
-| | | |
+_Drie tot vijf eigenschappen. Per eigenschap: hoe klinkt het wel, en hoe juist niet?_
 
 ## Je of u
 
-> Invullen: hoe je mensen aanspreekt, en of dat per situatie verschilt.
+_Hoe spreek je mensen aan? Verschilt dat per situatie?_
 
 ## Schrijfregels
 
-> Invullen: zinslengte, opmaak, emoji, hoofdletters, wat je altijd doet en wat je nooit doet.
+_Zinslengte, opmaak, emoji, wat je altijd doet en wat je nooit doet._
 
 ## Woorden
 
-- **Wel:**
-- **Nooit:**
+- Wel:
+- Nooit:
 
 ## Per kanaal
 
-| Kanaal | Hoe het daar klinkt |
-|---|---|
-| LinkedIn | |
-| Mail | |
-| Website | |
-| Instagram | |
+_Hoe klink je op LinkedIn, in een mail, op je website, op Instagram?_
 
 ## Huisstijl
 
-> Invullen: kleuren (met kleurcodes), lettertypen en een link naar je brandbook, als je die hebt.
+_Kleuren (met kleurcodes), lettertypen en een link naar je brandbook, als je die hebt._
 
-## Zo ziet goed eruit
+## Voorbeelden
 
-Het belangrijkste deel van dit bestand. Plak hier twee tot drie echte teksten waar je trots op bent, met erbij waarom ze goed zijn.
-
-### Voorbeeld 1
-
-> Plak de tekst.
-
-**Waarom dit goed is:**
-
-## Wat nog ontbreekt
-
-- 
+_Plak twee of drie teksten die echt als jou klinken, en schrijf erbij waarom. Hier leert AI het meest van._

@@ -1,9 +1,3 @@
----
-titel: Aanbod
-beschrijving: Mijn diensten en producten, met prijzen, voorwaarden en hoe ze op elkaar aansluiten.
-bijgewerkt:
----
-
 # Aanbod
 
 ## Overzicht
@@ -14,32 +8,21 @@ bijgewerkt:
 
 ## Per dienst
 
-Kopieer dit blok voor elke dienst.
+_Kopieer dit blok voor elke dienst._
 
-### [Naam dienst]
+### Naam van de dienst
 
-- **Voor wie:**
-- **Welke vraag het oplost:**
-- **Wat erin zit:**
-- **Vorm en duur:**
-- **Wat het oplevert:**
-- **Prijs:**
-- **Voorwaarden:** wat is inbegrepen, betaling, annulering
+- Voor wie:
+- Welk probleem het oplost:
+- Wat erin zit:
+- Vorm en duur:
+- Prijs:
+- Voorwaarden:
 
 ## Hoe het op elkaar aansluit
 
-> Invullen: hoe een klant binnenkomt (instap, gratis weggever, kennismaking) en waar die naartoe groeit.
+_Hoe komt iemand binnen (gratis weggever, kennismaking, instapproduct) en waar groeit die naartoe?_
 
 ## Veelgestelde vragen
 
-| Vraag | Antwoord |
-|---|---|
-| | |
-
-## Wat ik niet aanbied
-
-> Invullen: waar mensen je wel om vragen, maar wat je niet doet. En naar wie je doorverwijst.
-
-## Wat nog ontbreekt
-
-- 
+_Vragen die je vaak krijgt, met je antwoord._

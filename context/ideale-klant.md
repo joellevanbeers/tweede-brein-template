@@ -1,45 +1,29 @@
----
-titel: Ideale klant
-beschrijving: Wie mijn ideale klant is, wat die wil, waar die aan twijfelt en welke woorden die gebruikt.
-bijgewerkt:
----
-
 # Ideale klant
 
 ## Wie het is
 
-> Invullen: type bedrijf of persoon, rol, fase, omvang, sector. Heb je meer dan één type klant? Maak dan per type een kopje.
+_Denk aan de klant die je het liefst zou klonen. Wat voor bedrijf of persoon is het, in welke fase, welke rol? Heb je meer typen klanten, geef ze dan elk een eigen kopje._
 
 ## Waar ze mee zitten
 
-> Invullen: het probleem waarmee ze bij je komen, in hun eigen woorden. Wat kost het ze als het blijft zoals het is?
+_Met welk probleem komen ze bij je? In hun eigen woorden. Wat kost het ze als het zo blijft?_
 
 ## Wat ze willen
 
-> Invullen: de uitkomst die ze zoeken. Hoe ziet hun week eruit als het opgelost is?
+_Hoe ziet hun werk of leven eruit als het opgelost is?_
 
 ## Wat ze al geprobeerd hebben
 
-> Invullen: oplossingen die niet werkten en waarom.
+_Wat werkte niet, en waarom?_
 
-## Twijfels en mijn antwoord
+## Waar ze aan twijfelen
 
-| Twijfel | Mijn antwoord |
-|---|---|
-| | |
+_Wat houdt ze tegen om te kopen? En wat is jouw antwoord daarop?_
 
 ## Hun woorden
 
-> Invullen: letterlijke zinnen van klanten, uit gesprekken, mails of reviews. Dit is goud voor je teksten.
+_Letterlijke zinnen van klanten uit gesprekken, mails of reviews._
 
 ## Waar ze te vinden zijn
 
-> Invullen: kanalen, netwerken, evenementen, wie ze volgen.
-
-## Niet mijn klant
-
-> Invullen: aan wie je niet verkoopt en waarom.
-
-## Wat nog ontbreekt
-
-- 
+_Op welke kanalen, in welke netwerken, bij welke evenementen?_
