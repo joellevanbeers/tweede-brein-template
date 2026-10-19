@@ -21,11 +21,12 @@ AI leest `CLAUDE.md` eerst. Daarin staat het register: welk bestand AI wanneer o
 
 ## Zo begin je
 
-1. **Haal de map binnen.** Klik rechtsboven op **Code** en dan op **Download ZIP**. Pak de zip uit en zet de map op een vaste plek op je laptop.
+1. **Haal de map binnen.** Werk je met Claude Code? Plak de link van deze pagina en vraag: "Clone deze repo naar mijn laptop." Of klik rechtsboven op **Code** en dan op **Download ZIP**, pak de zip uit en zet de map op een vaste plek op je laptop.
 2. **Koppel de map aan Claude.** In Cowork: **Projects**, **+**, **Use an existing folder** en kies je map. Zet bij de instructies: `Lees altijd eerst CLAUDE.md in deze map.` In Claude Code open je de map gewoon; `CLAUDE.md` wordt dan vanzelf geladen.
-3. **Laat je interviewen.** Kopieer de interviewprompt uit de [presentatie](https://ai-makeover-tweede-brein.vercel.app/#13), plak hem in Claude en praat je antwoorden in.
-4. **Lees elke regel na.** Wat hier staat, komt terug in alles wat AI voor je maakt.
-5. **Test het.** Vraag om een LinkedIn-post, een antwoord op een klantmail en een intro voor een offerte. Klinkt het als jou?
+3. **Zet inspreken klaar.** Download [Wispr Flow](https://wisprflow.ai/r?JOELLE28) (een maand gratis), of [Handy](https://handy.computer) als je lokaal wilt werken.
+4. **Laat je interviewen.** Kopieer de interviewprompt uit de [presentatie](https://ai-makeover-tweede-brein.vercel.app/#13), plak hem in Claude en praat je antwoorden in.
+5. **Lees elke regel na.** Wat hier staat, komt terug in alles wat AI voor je maakt.
+6. **Test het.** Vraag om een LinkedIn-post, een antwoord op een klantmail en een intro voor een offerte. Klinkt het als jou?
 
 ## Een levend brein
 
