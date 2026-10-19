@@ -24,4 +24,3 @@ _Vijf zinnen: wie je bent, wat je bedrijf doet, voor wie, en waar je naartoe wil
 | `context/ideale-klant.md` | voor of over klanten schrijft. |
 | `context/aanbod.md` | iets maakt over wat ik verkoop: diensten, prijzen, hoe het op elkaar aansluit. |
 | `context/tone-of-voice.md` | iets schrijft. Bij elke tekst die naar buiten gaat. |
-| `prompts/interview.md` | alleen als ik vraag om mijn brein te vullen. |
